@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/undermaintenance/static/css/main.969dd52e.css",
+    "main.js": "/undermaintenance/static/js/main.ac918ec8.js",
+    "static/media/BG1.JPG": "/undermaintenance/static/media/BG1.1c3b32c6958bc619310c.JPG",
+    "static/media/react.png": "/undermaintenance/static/media/react.01179c3cf375b120d813.png",
+    "static/media/.net.png": "/undermaintenance/static/media/.net.7bc5c7f08a05b5dfa1d0.png",
+    "static/media/JS.png": "/undermaintenance/static/media/JS.062825dbceed44567e91.png",
+    "static/media/CSS.png": "/undermaintenance/static/media/CSS.8ea58d31a9d39dd59031.png",
+    "static/media/html.png": "/undermaintenance/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/burger.jpg": "/undermaintenance/static/media/burger.f42757d30dd718a1fe67.jpg",
+    "static/media/reactJS.ico": "/undermaintenance/static/media/reactJS.4fe75d5f9adb18067b85.ico",
+    "index.html": "/undermaintenance/index.html",
+    "main.969dd52e.css.map": "/undermaintenance/static/css/main.969dd52e.css.map",
+    "main.ac918ec8.js.map": "/undermaintenance/static/js/main.ac918ec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969dd52e.css",
+    "static/js/main.ac918ec8.js"
+  ]
+}
