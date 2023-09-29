@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/nad-ddb-io/static/css/main.03787060.css",
-    "main.js": "/nad-ddb-io/static/js/main.a93572e4.js",
+    "main.css": "/nad-ddb-io/static/css/main.a00ba175.css",
+    "main.js": "/nad-ddb-io/static/js/main.9fffd1a8.js",
     "static/media/BG1.JPG": "/nad-ddb-io/static/media/BG1.1c3b32c6958bc619310c.JPG",
+    "static/media/BG2.JPG": "/nad-ddb-io/static/media/BG2.c0946d659c04a7a454a5.JPG",
     "static/media/react.png": "/nad-ddb-io/static/media/react.01179c3cf375b120d813.png",
     "static/media/VBdotnet.png": "/nad-ddb-io/static/media/VBdotnet.7bc5c7f08a05b5dfa1d0.png",
     "static/media/JS.png": "/nad-ddb-io/static/media/JS.062825dbceed44567e91.png",
@@ -11,11 +12,11 @@
     "static/media/burger.jpg": "/nad-ddb-io/static/media/burger.f42757d30dd718a1fe67.jpg",
     "static/media/reactJS.ico": "/nad-ddb-io/static/media/reactJS.4fe75d5f9adb18067b85.ico",
     "index.html": "/nad-ddb-io/index.html",
-    "main.03787060.css.map": "/nad-ddb-io/static/css/main.03787060.css.map",
-    "main.a93572e4.js.map": "/nad-ddb-io/static/js/main.a93572e4.js.map"
+    "main.a00ba175.css.map": "/nad-ddb-io/static/css/main.a00ba175.css.map",
+    "main.9fffd1a8.js.map": "/nad-ddb-io/static/js/main.9fffd1a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.03787060.css",
-    "static/js/main.a93572e4.js"
+    "static/css/main.a00ba175.css",
+    "static/js/main.9fffd1a8.js"
   ]
 }
